@@ -76,3 +76,6 @@ Once your extension is working as expected, you can package it for distribution.
 Create a .crx file using the Chrome Extension Developer Tool or a third-party tool like chrome-extension-builder.
 Upload your extension to the Chrome Web Store or distribute it manually.
 Remember to follow Chrome’s extension guidelines and policies to ensure your extension is compatible and secure.
+
+Time module chosen: day.js
+Web article on it https://mirzaleka.medium.com/the-complete-guide-to-day-js-fb835a5d945a
