@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "MyPomodoro",
     "version": "1.0",
-    "description": "Includes a timer for 25 minutes of study time. Then shows a popup and maybe a notification sound for when this has finished. Then starts a 5 minute break timer.",
+    "description": "Includes a timer for 25 minutes of study time. Then starts a 5 minute break timer.",
     "permissions": ["activeTab"],
     "content_scripts": [
       {
