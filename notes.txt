@@ -77,5 +77,9 @@ Create a .crx file using the Chrome Extension Developer Tool or a third-party to
 Upload your extension to the Chrome Web Store or distribute it manually.
 Remember to follow Chrome’s extension guidelines and policies to ensure your extension is compatible and secure.
 
+Chrome extension tutorial: https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-on-every-tab#step-2
+
+Chrome API command list: https://developer.chrome.com/docs/extensions/reference/api/commands 
+
 Time module chosen: day.js
 Web article on it https://mirzaleka.medium.com/the-complete-guide-to-day-js-fb835a5d945a
