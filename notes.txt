@@ -81,5 +81,6 @@ Chrome extension tutorial: https://developer.chrome.com/docs/extensions/get-star
 
 Chrome API command list: https://developer.chrome.com/docs/extensions/reference/api/commands 
 
-Time module chosen: day.js
-Web article on it https://mirzaleka.medium.com/the-complete-guide-to-day-js-fb835a5d945a
+Built in timer in nodejs: https://nodejs.org/en/learn/asynchronous-work/discover-javascript-timers
+
+Change default code editor browser back to firefox developers edition afterwards
