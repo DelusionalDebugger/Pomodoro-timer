@@ -9,12 +9,22 @@
 <style id="style.css"></style> <!-- Links to the style.css file -->
 <div class="border_format"></div> <!-- Links to the border-width element in the syle.css file -->
 
+<script>
+    //Code below is for the timer
+
+    setTimeout(() => {
+  //Runs the code here after the given time
+
+  document.getElementById("paragraph").innerHTML = "This will be replaced with an actual timer";
+    }, 15); //1500000 should be actual value during use, this is 25 * 60 * 1000 to get 25 minutes in milliseconds
+
+</script>
+
 <body>
-    
-    <p class="font_default">Insert cool text here</p>
+
+    <p id="paragraph">Insert cool text here</p>
+
 
 </body>
-
-<script id="script.js"></script>
 
 </html>
