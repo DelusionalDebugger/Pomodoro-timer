@@ -12,15 +12,19 @@
 <body>
 
     <p id="paragraph">Insert cool text here</p>
+    <p id="time remaining">Time remaining: </p>
     
     <script>
         //Code below is for the timer
-        const study_time = 1500000 //This is 25 * 60 * 1000 to get 25 minutes in milliseconds
+        const study_time = 1500//This is 25 * 60 * 1000 to get 25 minutes in milliseconds
 
         setInterval(() => {
       //Runs the code here after the given time
             document.getElementById("paragraph").innerHTML = "This will be replaced with an actual timer";
         }, study_time);
+
+        //Code below shows time remaining
+        document.getElementById("time remaining").innerHTML = `Time remaining = ${--study_time}`
     
     </script>
 </body>
