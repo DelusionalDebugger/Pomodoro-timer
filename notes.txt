@@ -1,11 +1,7 @@
-Chrome extension tutorial: https://developer.chrome.com/docs/extensions/get-started/tutorial/scripts-on-every-tab#step-2
+Have a working time system (developed or imported from library)
 
-Chrome API command list: https://developer.chrome.com/docs/extensions/reference/api
+Make it count down from 25 minutes when a button is pressed
 
-Built in timer in nodejs: https://nodejs.org/en/learn/asynchronous-work/discover-javascript-timers
+Have a sound play or something saying or signifying that 25 minutes is over
 
-Article that allows you to change stuff in HTML file with javascript: https://www.freecodecamp.org/news/manipulate-html-and-css-using-javascript/ 
-
-API used to change fonts with CSS: https://developers.google.com/fonts/docs/getting_started
-
-Change default code editor browser back to firefox developers edition afterwards
+Let the button be hit and the timer restarted
