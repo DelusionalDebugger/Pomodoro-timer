@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pomodoro timer</title>
+</head>
+
+<style id="style.css"></style> <!-- Links to the style.css file -->
+<div class="border_format"></div> <!-- Links to the border-width element in the syle.css file -->
+
+<body>
+
+    <p id="paragraph">Insert cool text here</p>
+    <p id="time remaining">Time remaining: </p>
+    
+    <script>
+        //Code below is for the timer
+        const study_time = 1500//This is 25 * 60 * 1000 to get 25 minutes in milliseconds
+
+        setInterval(() => {
+      //Runs the code here after the given time
+            document.getElementById("paragraph").innerHTML = "This will be replaced with an actual timer";
+        }, study_time);
+
+        //Code below shows time remaining
+        document.getElementById("time remaining").innerHTML = `Time remaining = ${--study_time}`
+    
+    </script>
+</body>
+
+</html>
