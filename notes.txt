@@ -9,3 +9,5 @@ Article that allows you to change stuff in HTML file with javascript: https://ww
 API used to change fonts with CSS: https://developers.google.com/fonts/docs/getting_started
 
 Change default code editor browser back to firefox developers edition afterwards
+
+Testing commits
